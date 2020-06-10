@@ -1,0 +1,5 @@
+node_modules/
+.DS.Store
+db.json
+package-lock.json
+thumbs.db
